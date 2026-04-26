@@ -136,8 +136,8 @@ Password: password123
 
 ### 🖥️ Dashboard Overview
 
-![Dashboard](<img width="928" height="798" alt="image" src="https://github.com/user-attachments/assets/d39c2699-a910-4694-b89f-77f52a99f8e6" />
-)
+![Dashboard]<img width="928" height="798" alt="image" src="https://github.com/user-attachments/assets/891f4dce-f5cc-4539-a1e0-8bb20fe3b336" />
+
 
 ### 📊 Confusion Matrix
 
