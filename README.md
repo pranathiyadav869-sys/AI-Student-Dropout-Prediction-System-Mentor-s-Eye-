@@ -148,6 +148,10 @@ Password: password123
 ## 👩‍💻 Author
 
 **Pranathi Yadav**
+**Snigdha Somaraju**
+**K.V.Lakshman**
+**Rishwanth**
+**Sharan Thummala**
 
 ---
 
