@@ -1,5 +1,3 @@
-# SIH_Team_OG
-This project builds an AI-driven system to predict student dropout risk using data like attendance, grades, engagement, and fee status. With feature engineering, a Random Forest model, and visual insights, it highlights at-risk students early, enabling educators to take proactive, data-driven interventions. -->
 # 🎓 AI Student Dropout Prediction System (Mentor's Eye)
 
 An AI-powered system designed to **predict student dropout risk** using academic, behavioral, and financial data.
@@ -155,7 +153,8 @@ Password: password123
 ![Performance Trends]<img width="2852" height="1630" alt="image" src="https://github.com/user-attachments/assets/aab345d6-7959-4ac4-bcc6-47971fef9aa4" />
 <img width="2852" height="1630" alt="image" src="https://github.com/user-attachments/assets/6911151b-455d-48a0-b32f-b80c637ef007" />
 
-
+# SIH_Team_OG
+This project builds an AI-driven system to predict student dropout risk using data like attendance, grades, engagement, and fee status. With feature engineering, a Random Forest model, and visual insights, it highlights at-risk students early, enabling educators to take proactive, data-driven interventions. -->
 
 
 ## 💡 Future Improvements
