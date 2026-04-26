@@ -1,4 +1,4 @@
-<!-- # SIH_Team_OG
+<img width="2852" height="1630" alt="image" src="https://github.com/user-attachments/assets/e8c302ae-e366-4a43-895e-003b529833a3" /><!-- # SIH_Team_OG
 This project builds an AI-driven system to predict student dropout risk using data like attendance, grades, engagement, and fee status. With feature engineering, a Random Forest model, and visual insights, it highlights at-risk students early, enabling educators to take proactive, data-driven interventions. -->
 # 🎓 AI Student Dropout Prediction System (Mentor's Eye)
 
@@ -138,19 +138,24 @@ Password: password123
 
 ### 🖥️ Dashboard Overview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](<img width="928" height="798" alt="image" src="https://github.com/user-attachments/assets/d39c2699-a910-4694-b89f-77f52a99f8e6" />
+)
 
 ### 📊 Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/27817a42-57fb-42c6-b261-de0d2baafae2" />
+)
 
 ### 🔍 Student Risk Analysis
 
-![Student Analysis](images/student_analysis.png)
+![Student Analysis]<img width="2852" height="1630" alt="image" src="https://github.com/user-attachments/assets/37e0f92a-4fb2-4fd5-95e2-c55fbbcdd5dd" />
 
 ### 📈 Performance Trends
 
-![Performance Trends](images/performance_trends.png)
+![Performance Trends]<img width="2852" height="1630" alt="image" src="https://github.com/user-attachments/assets/aab345d6-7959-4ac4-bcc6-47971fef9aa4" />
+<img width="2852" height="1630" alt="image" src="https://github.com/user-attachments/assets/6911151b-455d-48a0-b32f-b80c637ef007" />
+
+
 
 
 ## 💡 Future Improvements
@@ -166,9 +171,13 @@ Password: password123
 ## 👩‍💻 Author
 
 **Pranathi Yadav**
+
 **Snigdha Somaraju**
+
 **K.V.Lakshman**
+
 **Rishwanth**
+
 **Sharan Thummala**
 
 ---
