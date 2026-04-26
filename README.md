@@ -134,6 +134,24 @@ Password: password123
 * Chart.js 📊
 
 ---
+## 📸 Project Screenshots
+
+### 🖥️ Dashboard Overview
+
+![Dashboard](images/dashboard.png)
+
+### 📊 Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### 🔍 Student Risk Analysis
+
+![Student Analysis](images/student_analysis.png)
+
+### 📈 Performance Trends
+
+![Performance Trends](images/performance_trends.png)
+
 
 ## 💡 Future Improvements
 
